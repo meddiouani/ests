@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Dash.ipynb --template=material --ExecutePreprocessor.timeout=180
+web: voila --port=$PORT --no-browser --debug Dash.ipynb --template=material --ExecutePreprocessor.timeout=180

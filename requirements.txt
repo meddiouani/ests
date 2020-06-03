@@ -41,7 +41,6 @@ cmdstanpy==0.4.0
 colorama==0.4.3
 colorlover==0.3.0
 comtypes==1.1.7
-conda-build==3.18.9
 conda-package-handling==1.7.0
 conda-verify==3.4.2
 constantly==15.1.0
